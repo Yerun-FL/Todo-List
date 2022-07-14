@@ -1,0 +1,18 @@
+.view-body {
+  /* text-align: center; */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.74)),
+    url(".././Images/overlay-bg.jpg");
+  height: 100vh;
+}
+.miniViewBody {
+  padding: 30px;
+  box-shadow: 2px 2px 5px 1.5px;
+  background-image: linear-gradient(
+    rgba(104, 104, 104, 0.63),
+    rgba(45, 44, 44, 0.866)
+  );
+}
+.miniViewBody h3 {
+  color: rgba(107, 253, 241, 0.838);
+  font-weight: 600;
+}

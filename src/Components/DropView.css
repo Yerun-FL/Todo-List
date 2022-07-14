@@ -1,0 +1,18 @@
+.High {
+  border: 4px solid rgba(255, 0, 0, 0.726);
+}
+.Medium {
+  border: 4px solid rgba(255, 255, 0, 0.767);
+}
+.Low {
+  border: 4px solid rgba(0, 0, 0, 0.792);
+}
+.inputdropView {
+  background-color: rgba(255, 255, 255, 0.808);
+  /* border: none; */
+  border-bottom: 2px solid rgba(255, 255, 255, 0.815);
+  /* color: rgba(240, 248, 255, 0.482); */
+}
+.dropview {
+  padding-top: 30px;
+}
